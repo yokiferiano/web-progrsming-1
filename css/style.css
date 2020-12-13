@@ -1,0 +1,21 @@
+#wrapper{
+	width:1024px;
+	height: auto;
+	padding-top:50px;
+	display: block;
+	margin: auto;
+}
+.box{
+	background:linear-gradient(to right,#969696 0%,#1ababc 50%,#1a1abc 100%);
+	padding-top:30px;
+}
+.pagination{
+	position: relative;
+	left:35%;
+}
+.table th, .table td, .table td > p{
+	vertical-align: middle;
+}
+.table td > p{
+	margin-bottom:0px;
+}
